@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/chethuhn/network-intrusion-dataset
+https://www.kaggle.com/datasets/munaalhawawreh/xiiotid-iiot-intrusion-dataset
+https://www.kaggle.com/datasets/mohammad0dabash/drdos-attacks-cicddos2019/data
